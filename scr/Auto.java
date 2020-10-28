@@ -17,6 +17,7 @@ public class Auto {
     public Auto(String merk) {
      //   System.out.println(merk);
         snelheid = 0;
+        this.merk = merk;
         kilometerstand = 20000;
 
     }
